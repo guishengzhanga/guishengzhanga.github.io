@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://guishengzhanga.github.io/sitemap.xml
